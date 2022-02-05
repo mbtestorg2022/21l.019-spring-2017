@@ -14,27 +14,387 @@ uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 
 \[TBP\] = Rulfo, Juan. _The Burning Plain and Other Stories_. Illustrated by Kermit Oliver. Translated by George D. Schade. University of Texas Press, 1971. ISBN: 9780292701328. \[Preview with [Google Books](https://books.google.com/books?id=nf_eDyxtbD0C&lpg=PP1&dq=jean%20rulfo%20tell%20them%20not%20to%20kill%20me%20luvina&pg=PP1#v=onepage&q&f=false)\]
 
-| SES # | TOPICS | READINGS & FILMS |
-| --- | --- | --- |
-| 1 | Introduction to the course | \[LDT\] Prologue and Ch. 1–2 |
-| 2 | Discuss: _Lazarillo de Tormes_ |  {{< br >}}{{< br >}} \[LDT\] Finish reading {{< br >}}{{< br >}} [Thought questions on _Lazarillo de Tormes_]({{< baseurl >}}/pages/readings-films/thought-questions-for-lazarillo-de-tormes) {{< br >}}{{< br >}}  |
-| 3 | Discuss: _Lazarillo de Tormes_ |  {{< br >}}{{< br >}} \[LLD\] Read to Letter 22 {{< br >}}{{< br >}} [Notes on _Les Liaisons dangereuses_ to Letter 22]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-to-letter-22) {{< br >}}{{< br >}}  |
-| 4 | _Les Liaisons dangereuses_ |  {{< br >}}{{< br >}} \[LLD\] Read to Letter 82 {{< br >}}{{< br >}} [Notes on _Les Liaisons dangereuses_ Letters 40–99]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-40-99) {{< br >}}{{< br >}}  |
-| 5 | Discuss: _Les Liaisons dangereuses_ |  {{< br >}}{{< br >}} \[LLD\] Read to Letter 146 {{< br >}}{{< br >}} [Notes on _Les Liaisons dangereuses_ Letters 114–146]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-114-146) {{< br >}}{{< br >}}  |
-| 6 | Discuss: _Les Liaisons dangereuses_ |  {{< br >}}{{< br >}} \[LLD\] Finish reading {{< br >}}{{< br >}} [Notes on _Les Liaisons dangereuses_ Letters 147–End]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-147-end) {{< br >}}{{< br >}}  |
-| 7 | Discuss: _Les Liaisons dangereuses_ | Watch: _[Dangerous Liaisons](http://www.imdb.com/title/tt0094947/?ref_=nv_sr_1)_ |
-| 8 | Discuss film: _Dangerous Liaisons_ |  {{< br >}}{{< br >}} Watch: _[Cruel Intentions](http://www.imdb.com/title/tt0139134/?ref_=nv_sr_1)_ {{< br >}}{{< br >}} [Notes on _Dangerous Liaisons_ and _Cruel Intentions_]({{< baseurl >}}/pages/readings-films/notes-on-dangerous-liaisons-cruel-intentions) {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Discuss film: _Cruel Intentions_ {{< br >}}{{< br >}} Compare two movie versions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \[TR\] Start reading {{< br >}}{{< br >}} [Important moments in Thérèse Raquin (first half)]({{< baseurl >}}/pages/readings-films/important-moments-in-therese-raquin-first-half) {{< br >}}{{< br >}}  |
-| 10 | Discuss: _Thérèse Raquin_ | \[TR\] Continue reading |
-| 11 | Discuss: _Thérèse Raquin_ |  {{< br >}}{{< br >}} \[TR\] Finish reading {{< br >}}{{< br >}} [Important moments in Thérèse Raquin (second half)]({{< baseurl >}}/pages/readings-films/important-moments-in-therese-raquin-second-half) {{< br >}}{{< br >}}  |
-| 12 | Finish: _Thérèse Raquin_ |  {{< br >}}{{< br >}} de Assis, Machado. _Dom Casmurro_. Translated by Helen Caldwell. Reprint edition. Farrar, Straus and Giroux, 2009. ISBN: 9780374523039. \[Preview with [Google Books](https://books.google.com/books?id=ntXVZfXngJYC&lpg=PP1&dq=dom%20casmurro&pg=PP1#v=onepage&q&f=false)\] {{< br >}}{{< br >}} Person, Ethel S. "[Love Triangles](https://www.theatlantic.com/magazine/archive/1988/02/love-triangles/376328/)." _The Atlantic_. February 1988. {{< br >}}{{< br >}}  |
-| 13 | Discuss: _Dom Casmurro_ | Watch: _[Doña Flor and Her Two Husbands](http://www.imdb.com/title/tt0077452/)_ |
-| 14 |  {{< br >}}{{< br >}} Discuss: _Doña Flor and Her Two Husbands_ {{< br >}}{{< br >}} Finish discussion of _Dom Casmurro_ {{< br >}}{{< br >}}  | Mann, Thomas. _Dead in Venice_. Translated by Stanley Appelbaum. Dover Publications, 1995. ISBN: 9780486287140. \[Preview with [Google Books](https://books.google.com/books?id=PjbCAgAAQBAJ&lpg=PP1&dq=death%20in%20venice&pg=PP1#v=onepage&q&f=false)\] |
-| 15 | Discuss: _Death in Venice_ | No assigned readings |
-| 16 | Discuss: _Death in Venice_ | Watch: _[Death in Venice](http://www.imdb.com/title/tt0067445/)_ |
-| 17 |  {{< br >}}{{< br >}} Discuss film: _Death in Venice_ {{< br >}}{{< br >}} Finish discussion of _Death in Venice_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Watch: _[Cat People](http://www.imdb.com/title/tt0034587/)_ {{< br >}}{{< br >}} \[KSW\] Ch. 1–11 {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Discuss: _Kiss of the Spider Woman_ to Ch. 11 {{< br >}}{{< br >}}  | \[KSW\] Finish reading |
-| 19 | Finish discussion of _Kiss of the Spider Woman_ | Watch: _[Kiss of the Spider Woman](http://www.imdb.com/title/tt0089424/?ref_=nv_sr_1)_ |
-| 20 | Discuss film: _Kiss of the Spider Woman_ |  {{< br >}}{{< br >}} \[TBP\] "They Gave Us the Land." \[Preview with [Google Books](https://books.google.com/books?id=nf_eDyxtbD0C&lpg=PP1&dq=jean%20rulfo%20tell%20them%20not%20to%20kill%20me%20luvina&pg=PA9#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[TBP\] "Tell Them Not to Kill Me!" \[Preview with [Google Books](https://books.google.com/books?id=nf_eDyxtbD0C&lpg=PP1&dq=jean%20rulfo%20tell%20them%20not%20to%20kill%20me%20luvina&pg=PA83#v=onepage&q&f=false)\] {{< br >}}{{< br >}} \[TBP\] "Paso del Norte." {{< br >}}{{< br >}}  |
-| 21 |  {{< br >}}{{< br >}} Discuss: Short stories by Juan Rulfo {{< br >}}{{< br >}} Guest lecturer: [Joaquín Terrones](https://lit.mit.edu/people/jterrones/) {{< br >}}{{< br >}}  | Márquez, Gabriel García. _Chronicle of a Death Foretold_. Translated by Gregory Rabassa. Reprint edition. Vintage, 2003. ISBN: 9781400034710. |
-| 22 |  {{< br >}}{{< br >}} Discuss: _Chronicle of a Death Foretold_ {{< br >}}{{< br >}} Final discussion {{< br >}}{{< br >}}  | Fourth essay due three days after Session 22
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS & FILMS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the course
+{{< tdclose >}}
+{{< tdopen >}}
+\[LDT\] Prologue and Ch. 1–2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Lazarillo de Tormes_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[LDT\] Finish reading
+
+[Thought questions on _Lazarillo de Tormes_]({{< baseurl >}}/pages/readings-films/thought-questions-for-lazarillo-de-tormes)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Lazarillo de Tormes_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[LLD\] Read to Letter 22
+
+[Notes on _Les Liaisons dangereuses_ to Letter 22]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-to-letter-22)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+_Les Liaisons dangereuses_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[LLD\] Read to Letter 82
+
+[Notes on _Les Liaisons dangereuses_ Letters 40–99]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-40-99)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Les Liaisons dangereuses_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[LLD\] Read to Letter 146
+
+[Notes on _Les Liaisons dangereuses_ Letters 114–146]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-114-146)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Les Liaisons dangereuses_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[LLD\] Finish reading
+
+[Notes on _Les Liaisons dangereuses_ Letters 147–End]({{< baseurl >}}/pages/readings-films/notes-on-les-liaisons-dangereuses-letters-147-end)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Les Liaisons dangereuses_
+{{< tdclose >}}
+{{< tdopen >}}
+Watch: _[Dangerous Liaisons](http://www.imdb.com/title/tt0094947/?ref_=nv_sr_1)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss film: _Dangerous Liaisons_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Watch: _[Cruel Intentions](http://www.imdb.com/title/tt0139134/?ref_=nv_sr_1)_
+
+[Notes on _Dangerous Liaisons_ and _Cruel Intentions_]({{< baseurl >}}/pages/readings-films/notes-on-dangerous-liaisons-cruel-intentions)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss film: _Cruel Intentions_
+
+Compare two movie versions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[TR\] Start reading
+
+[Important moments in Thérèse Raquin (first half)]({{< baseurl >}}/pages/readings-films/important-moments-in-therese-raquin-first-half)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Thérèse Raquin_
+{{< tdclose >}}
+{{< tdopen >}}
+\[TR\] Continue reading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Thérèse Raquin_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[TR\] Finish reading
+
+[Important moments in Thérèse Raquin (second half)]({{< baseurl >}}/pages/readings-films/important-moments-in-therese-raquin-second-half)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Finish: _Thérèse Raquin_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+de Assis, Machado. _Dom Casmurro_. Translated by Helen Caldwell. Reprint edition. Farrar, Straus and Giroux, 2009. ISBN: 9780374523039. \[Preview with [Google Books](https://books.google.com/books?id=ntXVZfXngJYC&lpg=PP1&dq=dom%20casmurro&pg=PP1#v=onepage&q&f=false)\]
+
+Person, Ethel S. "[Love Triangles](https://www.theatlantic.com/magazine/archive/1988/02/love-triangles/376328/)." _The Atlantic_. February 1988.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Dom Casmurro_
+{{< tdclose >}}
+{{< tdopen >}}
+Watch: _[Doña Flor and Her Two Husbands](http://www.imdb.com/title/tt0077452/)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss: _Doña Flor and Her Two Husbands_
+
+Finish discussion of _Dom Casmurro_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Mann, Thomas. _Dead in Venice_. Translated by Stanley Appelbaum. Dover Publications, 1995. ISBN: 9780486287140. \[Preview with [Google Books](https://books.google.com/books?id=PjbCAgAAQBAJ&lpg=PP1&dq=death%20in%20venice&pg=PP1#v=onepage&q&f=false)\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Death in Venice_
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss: _Death in Venice_
+{{< tdclose >}}
+{{< tdopen >}}
+Watch: _[Death in Venice](http://www.imdb.com/title/tt0067445/)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss film: _Death in Venice_
+
+Finish discussion of _Death in Venice_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Watch: _[Cat People](http://www.imdb.com/title/tt0034587/)_
+
+\[KSW\] Ch. 1–11
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss: _Kiss of the Spider Woman_ to Ch. 11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[KSW\] Finish reading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Finish discussion of _Kiss of the Spider Woman_
+{{< tdclose >}}
+{{< tdopen >}}
+Watch: _[Kiss of the Spider Woman](http://www.imdb.com/title/tt0089424/?ref_=nv_sr_1)_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss film: _Kiss of the Spider Woman_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[TBP\] "They Gave Us the Land." \[Preview with [Google Books](https://books.google.com/books?id=nf_eDyxtbD0C&lpg=PP1&dq=jean%20rulfo%20tell%20them%20not%20to%20kill%20me%20luvina&pg=PA9#v=onepage&q&f=false)\]
+
+\[TBP\] "Tell Them Not to Kill Me!" \[Preview with [Google Books](https://books.google.com/books?id=nf_eDyxtbD0C&lpg=PP1&dq=jean%20rulfo%20tell%20them%20not%20to%20kill%20me%20luvina&pg=PA83#v=onepage&q&f=false)\]
+
+\[TBP\] "Paso del Norte."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss: Short stories by Juan Rulfo
+
+Guest lecturer: [Joaquín Terrones](https://lit.mit.edu/people/jterrones/)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Márquez, Gabriel García. _Chronicle of a Death Foretold_. Translated by Gregory Rabassa. Reprint edition. Vintage, 2003. ISBN: 9781400034710.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discuss: _Chronicle of a Death Foretold_
+
+Final discussion
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Fourth essay due three days after Session 22
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
