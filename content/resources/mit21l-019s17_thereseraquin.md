@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b093afb1-85c6-e275-6ea8-97608493498d
 resourcetype: Image
 title: MIT21L.019S17_ThereseRaquin
 uid: 4064360e-4bd1-6af6-c3af-a0eaf4987869

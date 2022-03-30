@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 77b1fc7c-3178-0d94-556d-56542dba41a7
 resourcetype: Image
 title: MIT21L.019S17_Valmont_LLD.jpg
 uid: 2fe90f2d-5e80-13c4-2d23-ccec664c08f6

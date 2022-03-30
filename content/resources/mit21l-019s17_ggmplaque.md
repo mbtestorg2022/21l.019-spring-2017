@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 948e1338-15e9-ec57-7125-0e2210b367ef
 resourcetype: Image
 title: MIT21L.019S17_GGMplaque
 uid: 3adc16c9-a12b-0716-8c13-7037193e1991
